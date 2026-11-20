@@ -18,7 +18,7 @@ Eu crio aplicativos de desktop simples de usar no Windows, macOS e Linux. Todos 
 
 | | Aplicativo | Descrição | Plataformas | Download |
 |---|---|---|---|---|
-| <img src="https://raw.githubusercontent.com/mid2tonight/ScreenMouse/main/images/icon.svg" width="48" alt="Ícone do Screen Mouse"> | **[Screen Mouse](https://github.com/mid2tonight/ScreenMouse/blob/main/README.pt-BR.md)** | Use um único teclado e um único mouse em vários computadores. Um KVM de software leve que troca de computador mais rápido que um comutador KVM de hardware, com área de transferência compartilhada e transferência de arquivos por arrastar e soltar. 1 mês grátis e mais 1 mês com a promoção. | Windows · macOS · Linux | [Versão mais recente](https://github.com/mid2tonight/ScreenMouse/releases/latest) |
+| <img src="https://raw.githubusercontent.com/mid2tonight/ScreenMouse/main/images/icon.svg" width="48" alt="Ícone do Screen Mouse"> | **[Screen Mouse](https://github.com/mid2tonight/ScreenMouse/blob/main/README.pt-BR.md)** | Use um único teclado e um único mouse em vários computadores. Um KVM de software leve que troca de computador mais rápido que um comutador KVM de hardware, com área de transferência compartilhada e transferência de arquivos por arrastar e soltar. | Windows · macOS · Linux | [Versão mais recente](https://github.com/mid2tonight/ScreenMouse/releases/latest) |
 
 Mais aplicativos serão adicionados aqui.
 

@@ -18,7 +18,7 @@
 
 | | 应用 | 说明 | 平台 | 下载 |
 |---|---|---|---|---|
-| <img src="https://raw.githubusercontent.com/mid2tonight/ScreenMouse/main/images/icon.svg" width="48" alt="Screen Mouse 图标"> | **[Screen Mouse](https://github.com/mid2tonight/ScreenMouse/blob/main/README.zh-CN.md)** | 用一套键盘和鼠标控制多台电脑。轻量级软件 KVM，切换速度比硬件 KVM 切换器更快，支持共享剪贴板和拖放传输文件。可免费使用 1 个月，参与促销活动可再免费使用 1 个月。 | Windows · macOS · Linux | [最新版本](https://github.com/mid2tonight/ScreenMouse/releases/latest) |
+| <img src="https://raw.githubusercontent.com/mid2tonight/ScreenMouse/main/images/icon.svg" width="48" alt="Screen Mouse 图标"> | **[Screen Mouse](https://github.com/mid2tonight/ScreenMouse/blob/main/README.zh-CN.md)** | 用一套键盘和鼠标控制多台电脑。轻量级软件 KVM，切换速度比硬件 KVM 切换器更快，支持共享剪贴板和拖放传输文件。 | Windows · macOS · Linux | [最新版本](https://github.com/mid2tonight/ScreenMouse/releases/latest) |
 
 更多应用将陆续添加到此处。
 

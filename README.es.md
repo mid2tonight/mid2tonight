@@ -18,7 +18,7 @@ Creo aplicaciones de escritorio fáciles de usar en Windows, macOS y Linux. Toda
 
 | | Aplicación | Descripción | Plataformas | Descarga |
 |---|---|---|---|---|
-| <img src="https://raw.githubusercontent.com/mid2tonight/ScreenMouse/main/images/icon.svg" width="48" alt="Icono de Screen Mouse"> | **[Screen Mouse](https://github.com/mid2tonight/ScreenMouse/blob/main/README.es.md)** | Use un solo teclado y un solo ratón en varios equipos. Un KVM de software ligero que cambia de equipo más rápido que un conmutador KVM de hardware, con portapapeles compartido y transferencia de archivos mediante arrastrar y colocar. 1 mes gratis y 1 mes más con la promoción. | Windows · macOS · Linux | [Última versión](https://github.com/mid2tonight/ScreenMouse/releases/latest) |
+| <img src="https://raw.githubusercontent.com/mid2tonight/ScreenMouse/main/images/icon.svg" width="48" alt="Icono de Screen Mouse"> | **[Screen Mouse](https://github.com/mid2tonight/ScreenMouse/blob/main/README.es.md)** | Use un solo teclado y un solo ratón en varios equipos. Un KVM de software ligero que cambia de equipo más rápido que un conmutador KVM de hardware, con portapapeles compartido y transferencia de archivos mediante arrastrar y colocar. | Windows · macOS · Linux | [Última versión](https://github.com/mid2tonight/ScreenMouse/releases/latest) |
 
 Aquí se añadirán más aplicaciones.
 

@@ -18,7 +18,7 @@
 
 | | 應用程式 | 說明 | 平台 | 下載 |
 |---|---|---|---|---|
-| <img src="https://raw.githubusercontent.com/mid2tonight/ScreenMouse/main/images/icon.svg" width="48" alt="Screen Mouse 圖示"> | **[Screen Mouse](https://github.com/mid2tonight/ScreenMouse/blob/main/README.zh-TW.md)** | 用一組鍵盤和滑鼠控制多部電腦。輕量軟體 KVM，切換速度比硬體 KVM 切換器更快，支援共用剪貼簿和拖放傳輸檔案。可免費使用 1 個月，參加優惠活動即可再免費使用 1 個月。 | Windows · macOS · Linux | [最新版本](https://github.com/mid2tonight/ScreenMouse/releases/latest) |
+| <img src="https://raw.githubusercontent.com/mid2tonight/ScreenMouse/main/images/icon.svg" width="48" alt="Screen Mouse 圖示"> | **[Screen Mouse](https://github.com/mid2tonight/ScreenMouse/blob/main/README.zh-TW.md)** | 用一組鍵盤和滑鼠控制多部電腦。輕量軟體 KVM，切換速度比硬體 KVM 切換器更快，支援共用剪貼簿和拖放傳輸檔案。 | Windows · macOS · Linux | [最新版本](https://github.com/mid2tonight/ScreenMouse/releases/latest) |
 
 更多應用程式將陸續新增到此處。
 

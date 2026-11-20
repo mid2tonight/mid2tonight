@@ -18,7 +18,7 @@ Ich entwickle Desktop-Apps, die sich unter Windows, macOS und Linux einfach bedi
 
 | | App | Beschreibung | Plattformen | Download |
 |---|---|---|---|---|
-| <img src="https://raw.githubusercontent.com/mid2tonight/ScreenMouse/main/images/icon.svg" width="48" alt="Screen Mouse-Symbol"> | **[Screen Mouse](https://github.com/mid2tonight/ScreenMouse/blob/main/README.de.md)** | Verwenden Sie eine Tastatur und eine Maus für mehrere Computer. Ein schlanker Software-KVM, der schneller umschaltet als ein Hardware-KVM-Switch, mit gemeinsamer Zwischenablage und Dateiübertragung per Drag & Drop. 1 Monat kostenlos, mit der Aktion 1 weiterer Monat. | Windows · macOS · Linux | [Neueste Version](https://github.com/mid2tonight/ScreenMouse/releases/latest) |
+| <img src="https://raw.githubusercontent.com/mid2tonight/ScreenMouse/main/images/icon.svg" width="48" alt="Screen Mouse-Symbol"> | **[Screen Mouse](https://github.com/mid2tonight/ScreenMouse/blob/main/README.de.md)** | Verwenden Sie eine Tastatur und eine Maus für mehrere Computer. Ein schlanker Software-KVM, der schneller umschaltet als ein Hardware-KVM-Switch, mit gemeinsamer Zwischenablage und Dateiübertragung per Drag & Drop. | Windows · macOS · Linux | [Neueste Version](https://github.com/mid2tonight/ScreenMouse/releases/latest) |
 
 Weitere Apps werden hier hinzugefügt.
 
