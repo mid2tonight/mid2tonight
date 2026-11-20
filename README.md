@@ -12,7 +12,6 @@
 
 # MIDNIGHT
 
-Desktop apps that are simple
 
 ## Apps
 
