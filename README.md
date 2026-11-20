@@ -16,8 +16,6 @@
 |---|---|---|---|---|
 | <img src="https://raw.githubusercontent.com/mid2tonight/ScreenMouse/main/images/icon.svg" width="48" alt="Screen Mouse icon"> | **[Screen Mouse](https://github.com/mid2tonight/ScreenMouse)** | Use one keyboard and mouse across multiple computers. A lightweight software KVM that switches computers faster than a hardware KVM switch, with a shared clipboard and drag-and-drop file transfer. Free for 1 month, plus 1 more month with the promotion. | Windows · macOS · Linux | [Latest release](https://github.com/mid2tonight/ScreenMouse/releases/latest) |
 
-More apps will be added here.
-
 ## Contact
 
 To ask a question or report a problem, open an issue in the app's repository.
