@@ -19,5 +19,3 @@
 ## Contact
 
 To ask a question or report a problem, open an issue in the app's repository.
-
-Website: [mid55.com](https://mid55.com/)
