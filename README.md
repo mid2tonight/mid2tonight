@@ -12,7 +12,7 @@
 
 # MIDNIGHT
 
-I make desktop apps that are simple to use on Windows, macOS, and Linux. Every app is available in 9 languages.
+Desktop apps that are simple
 
 ## Apps
 
